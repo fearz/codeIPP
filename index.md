@@ -91,8 +91,8 @@ Le velours peut comporter :
 |  | a l'envers: a son insu |
 | Quadripède à bosse | A l'endroit: avoue se masturber |
 |  | A l'envers: ne l'avoue pas |
-| Squelette | A l'endroit: personne possedant des os |
-|  | A l'envers: personne aimant les os |
+| Squelette | A l'endroit: a attendu 6 mois |
+|  | A l'envers: n'a pas attendu 6 mois |
 | Tête de cheval | A l'endroit: Aime le cheval dans l'assiete |
 |  | A l'envers: s'est fait prank en mode le parrain |
 | Bouteille de chartreuse | Est parisien |
